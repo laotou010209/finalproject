@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="createData" />
+        <module name="hotCount" />
+        <module name="myweb" />
+        <module name="pages_count" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="createData" target="1.8" />
+      <module name="finalproject" target="1.8" />
+      <module name="hotCount" target="1.8" />
+      <module name="myweb" target="1.8" />
+      <module name="pages_count" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
